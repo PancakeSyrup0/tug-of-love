@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bxtikha3vwsvw"
+path="res://.godot/imported/Kiss Sound Effect.mp3-4464b6d76239ad3a482a9175c69dcc0e.mp3str"
+
+[deps]
+
+source_file="res://assets/Kiss Sound Effect.mp3"
+dest_files=["res://.godot/imported/Kiss Sound Effect.mp3-4464b6d76239ad3a482a9175c69dcc0e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
